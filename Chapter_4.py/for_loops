@@ -1,0 +1,55 @@
+names = ['dave', 'jake','tyrese']
+for name in names:
+    print(name.capitalize() + " you are the man!!!\n","The next time should be even better, "+ name.capitalize())
+print("\nI want to thank everyone for participating.")
+
+x=10
+
+if x > 10:
+    print('x is big') #if statement is true then print this text
+elif x ==10:
+    print('x is small')
+else:
+    print('x is small') 
+    
+    
+print('this code always runs due to the indentation')
+
+
+
+
+names = ['John','Jake','Holly','Jason','Mateo','Maia','Person']
+
+for name in names:
+    print(name)
+print('   ')
+print('   ')
+print('This is the next exercise.\n')
+pizzas = ['pepperoni','sausage','supreme','deluxe',]
+
+for pizza in pizzas:
+    
+    print(pizza.title(),"is my absolute favorite!")
+
+print("\nAs you can see i absolutely love pizza!\nBut then again, honestly, who doesn't!?\n")
+
+for value in range(1,11):
+    print(value)
+
+numbers = list(range(1,16))
+print(numbers)
+print(' ')
+
+even_num = list(range(1,11,2))
+print(even_num)
+
+odd_num = list(range(1,21,2))
+print(odd_num[-2])
+
+
+
+
+
+
+
+  

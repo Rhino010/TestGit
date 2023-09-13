@@ -1,0 +1,7 @@
+cars = ["ford", "chevy", "audi","bmw"]
+print(cars)
+print(sorted(reverse = True(cars)))
+
+
+cars.sort(reverse = True)
+print(cars)
